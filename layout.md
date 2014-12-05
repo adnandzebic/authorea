@@ -1,1 +1,2 @@
 untitled.tex
+figures/click_to_enter_plot_title1/click_to_enter_plot_title1.png
