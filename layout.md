@@ -8,3 +8,4 @@ figures/plot1e/plot1e.png
 figures/plot1e-zoom/plot1e-zoom.png
 figures/plot1f/plot1f.png
 figures/plot1f-zoom/plot1f-zoom.png
+scoring.tex
