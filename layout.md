@@ -14,3 +14,4 @@ DTMF Decode Function.tex
 dtmfrun.m.tex
 telephone.tex
 test.m.tex
+figures/specogram/specogram.png
