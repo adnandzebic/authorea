@@ -10,3 +10,4 @@ figures/plot1f/plot1f.png
 figures/plot1f-zoom/plot1f-zoom.png
 scoring.tex
 dtmfscore.m.tex
+DTMF Decode Function.tex
